@@ -12,7 +12,7 @@
 
 ##
 <div style="display: inline_block"><br>
- <img align="right" alt="Bia-gif" src="https://i.postimg.cc/WbvjB9BK/giff3.gif" width="150" height="150">
+ <img align="right" alt="Bia-gif" src="https://i.postimg.cc/s2678G16/giff3.gif" width="150" height="150">
 </div>
 <div>
   <a href="https://www.instagram.com/biia.peters/?next=%2Freel%2FC_su8QTuF7w%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
