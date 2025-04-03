@@ -1,4 +1,4 @@
-#<h2 align="center">Ooi! Eu sou a Bianca, bem-vindo ao meu perfil GitHub 👋</h2>
+<h2 align="center"> Olá! Eu sou a Bianca, bem-vindo ao meu perfil GitHub 👋</h2>
 
 <div style="display: inline_block">
   <img align="right" alt="Bia-gif" src="https://i.postimg.cc/s2678G16/giff3.gif" width="150" height="150">
