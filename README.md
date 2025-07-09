@@ -4,9 +4,10 @@
   <img align="right" alt="Bia-gif" src="https://i.postimg.cc/s2678G16/giff3.gif" width="150" height="150">
 </div>
 
+
 - 🌱 Estudando Inteligência Artificial Aplicada
 - 💡 Interesse em desenvolvimento de software, inteligência artificial e análise de dados
-- 📚 Atualmente estudando sobre UX Design
+- 📚 Atualmente aprendendo sobre UX Design
 - 🎯 Buscando aplicar conhecimentos em projetos práticos
 
 ---
