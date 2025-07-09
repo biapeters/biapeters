@@ -7,19 +7,20 @@
 - 📚 Atualmente aprendendo sobre UX Design
 - 🎯 Buscando aplicar conhecimentos em projetos práticos
 
+
+ 
+  
 ---
 
 <div>
 
   <a href="https://github.com/biapeters">
-
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biapeters&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
-
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biapeters&layout=compact&langs_count=16&theme=vue-dark&hide_border=true&border_radius=10"/>
-
   </a>
 
 </div>
+
 ---
 
 ## 🚀 Tecnologias utilizadas
