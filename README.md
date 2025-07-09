@@ -11,10 +11,7 @@
 
 <div align="center">
   <a href="https://github.com/biapeters">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biapeters&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
-  </a>
-  <a href="https://github.com/biapeters">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biapeters&layout=compact&langs_count=16&theme=vue-dark&hide_border=true&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biapeters&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>&nbsp; <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biapeters&layout=compact&langs_count=16&theme=vue-dark&hide_border=true&border_radius=10"/>
   </a>
 </div>
 
@@ -32,7 +29,7 @@
 
 ---
 
-## 📬 Entre em Contato
+<h2> 📬 Entre em Contato</h2>
 <div>
   <a href="mailto:bianca.sjbb0909@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/bianca-peters-barroso-019524230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
