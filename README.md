@@ -6,8 +6,8 @@
 
 - 🔭 Estou à procura de estágio
 - 🌱 Estudando Inteligência Artificial Aplicada
-- 💡 Interesse em Data Science e Machine Learning 
-- 📚 Atualmente estudando Fundamentos de Banco de Dados
+- 💡 Interesse em desenvolvimento de software, inteligência artificial e análise de dados
+- 📚 Atualmente estudando sobre UX Design
 - 🎯 Buscando aplicar conhecimentos em projetos práticos
 
 ---
