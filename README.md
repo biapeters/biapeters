@@ -2,9 +2,9 @@
 
 <img align="right" alt="Bia-gif" src="https://i.postimg.cc/s2678G16/giff3.gif" width="150" height="150" style="margin-left: 20px;">
 
-- 🌱 Estudando Inteligência Artificial Aplicada
-- 💡 Interesse em desenvolvimento de software, inteligência artificial e análise de dados
-- 📚 Atualmente aprendendo sobre UX Design
+- 🌱 Estudando Inteligência Artificial Aplicada na PUCPR
+- 💡 Interesse em desenvolvimento de software e inteligência artificial.
+- 📚 Atualmente aprendendo sobre front-end
 - 🎯 Buscando aplicar conhecimentos em projetos práticos
 
 
