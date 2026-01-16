@@ -1,39 +1,35 @@
-<h2 align="center"> Olá! Eu sou a Bianca, bem-vindo ao meu perfil GitHub 👋</h2>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://i.postimg.cc/XYnMxB5C/bianca-dev.jpg" width="500">
+    </td>
+    <td>
+      <img src="https://i.postimg.cc/jq8RDXnM/ezgif-com-animated-gif-maker.gif" width="200">
+    </td>
+  </tr>
+</table>
 
-<img align="right" alt="Bia-gif" src="https://i.postimg.cc/s2678G16/giff3.gif" width="150" height="150" style="margin-left: 20px;">
-
-- 🌱 Estudando Inteligência Artificial Aplicada na PUCPR
-- 💡 Interesse em desenvolvimento de software e inteligência artificial.
-- 📚 Atualmente aprendendo sobre front-end
-- 🎯 Buscando aplicar conhecimentos em projetos práticos
-
-
- 
-  
----
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biapeters&theme=dracula" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=biapeters&theme=dracula" />
+
+💡 I am currently studying Applied Artificial Intelligence at PUCPR, with a strong interest in software development and artificial intelligence.  
+
+💻 At the moment, I am focused on front-end development, aiming to strengthen my technical skills and expand my understanding of web technologies.  
+
+🎯 My main goal is to apply this knowledge to practical projects, turning learning into real-world experience.
+
 </div>
 
 ---
 
-## 🚀 Tecnologias utilizadas
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-</div>
+<h2 align="center">Tech Stack</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+</div
 
----
 
-<h2> 📬 Entre em Contato</h2>
-<div>
-  <a href="mailto:bianca.sjbb0909@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/bianca-peters-barroso-019524230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://steamcommunity.com/profiles/76561198980419795/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
-</div>
